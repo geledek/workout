@@ -1,0 +1,28 @@
+name: Convert checkboxes to emoji
+
+on:
+  push:
+    paths:
+      - 'weeks/*.md'
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Convert [x] to ✅
+        run: |
+          find weeks -name '*.md' -exec sed -i 's/\[x\]/✅/g' {} +
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Convert [x] checkboxes to ✅"
+            git push
+          fi
