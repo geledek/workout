@@ -2,7 +2,7 @@
 
 Your body is legacy code.
 
-Two decades of back pain. Bilateral ACL reconstructions. A pelvic floor that throws exceptions when you least expect it. Walking patterns optimized for compensation, not performance.
+Two decades of back pain. Bilateral ACL reconstructions. A nerve or a muscle that throws exceptions when you least expect it. Walking patterns optimized for compensation, not performance.
 
 Time to refactor.
 
