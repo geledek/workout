@@ -8,6 +8,14 @@ Time to refactor.
 
 ---
 
+## Weekly Plans
+
+| Week | Dates | Summary |
+|------|-------|---------|
+| [W04](weeks/2026-W04.md) | Jan 20-26 | Return to running test, boxing trial, Vietnam travel, single-leg focus |
+
+---
+
 ## The Philosophy
 
 **Motivation is a bug. Discipline is a feature.**
@@ -114,14 +122,6 @@ Then generates a new weekly plan with:
 | 5km | — | 25:00 |
 
 Real numbers. Real accountability. Updated in `/metrics.md` when tested.
-
----
-
-## Weekly Plans
-
-| Week | Dates | Summary |
-|------|-------|---------|
-| [W04](weeks/2026-W04.md) | Jan 20-26 | Return to running test, boxing trial, Vietnam travel, single-leg focus |
 
 ---
 
