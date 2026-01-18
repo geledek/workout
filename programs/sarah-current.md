@@ -40,3 +40,9 @@
 - Focus on control and form over intensity
 - Avoid lumbar extension during all hip extension work
 - Single leg work is crucial for hip stability and preventing compensation patterns
+
+## Running Progression (Next 3 Weeks)
+
+**Frequency:** Every 4-5 days
+**Volume:** Do not increase more than 10% per week
+**Focus:** Gradual return to running post-pelvic floor recovery
