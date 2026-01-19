@@ -5,6 +5,9 @@ on:
     paths:
       - 'weeks/*.md'
 
+permissions:
+  contents: write
+
 jobs:
   convert:
     runs-on: ubuntu-latest
