@@ -136,6 +136,14 @@ When Ray travels:
 /weeks/YYYY-WXX.md            - Weekly plans
 ```
 
+## README Updates
+
+**Every time a new weekly plan is created**, add it to the Weekly Plans table in `README.md`. Newest week goes on top. Format:
+
+```markdown
+| [WXX](weeks/YYYY-WXX.md) | Date range | Key themes/highlights |
+```
+
 ## Git Workflow
 
 - Commit each new weekly plan

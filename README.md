@@ -12,7 +12,17 @@ Two decades of back pain. Bilateral ACL reconstructions. A nerve or a muscle tha
 
 | Week | Dates | Summary |
 |------|-------|---------|
+| [W05](weeks/2026-W05.md) | Jan 26 - Feb 1 | 🔄 Post-travel recovery, rehab reintegration |
 | [W04](weeks/2026-W04.md) | Jan 20-26 | 🏃 Return to running test, 🥊 boxing trial, ✈️ Vietnam travel, 🦵 single-leg focus |
+
+---
+
+## 📋 Programs
+
+| Program | Owner | Description |
+|---------|-------|-------------|
+| [Sarah's Rehab Program](programs/sarah-current.md) | 🏥 Sarah (Physio) | Current rehab program — the source of truth |
+| [Andy's Session Notes](programs/andy-notes.md) | 🎯 Andy (PT) | Weekly gym session notes and observations |
 
 ---
 
