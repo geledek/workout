@@ -12,6 +12,7 @@ Two decades of back pain. Bilateral ACL reconstructions. A nerve or a muscle tha
 
 | Week | Dates | Summary |
 |------|-------|---------|
+| [W06](weeks/2026-W06.md) | Feb 2 - Feb 8 | 🏢 Workshop week (Mon-Thu), ✈️ fly back to Singapore Fri, maintenance mode |
 | [W05](weeks/2026-W05.md) | Jan 26 - Feb 1 | 🔄 Post-travel recovery, rehab reintegration |
 | [W04](weeks/2026-W04.md) | Jan 20-26 | 🏃 Return to running test, 🥊 boxing trial, ✈️ Vietnam travel, 🦵 single-leg focus |
 

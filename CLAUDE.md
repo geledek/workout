@@ -30,6 +30,7 @@ This is Ray's workout planning system. Ray is working with:
    - Recent metrics and status
 3. Claude generates new weekly plan
 4. Plan goes in `weeks/YYYY-WXX.md`
+5. Add the new week to the Weekly Plans table in `README.md`
 
 **Quick Input Format:**
 Ray will say something like: "Plan next week. Normal work M-F, football Saturday, feeling good but lower back tight Thursday. Seeing Andy Tuesday."
