@@ -12,6 +12,7 @@ Two decades of back pain. Bilateral ACL reconstructions. A nerve or a muscle tha
 
 | Week | Dates | Summary |
 |------|-------|---------|
+| [W10](weeks/2026-W10.md) | Mar 2 - Mar 8 | 🏋️ Sarah's plyo program starts, ⚽ football Tue, 🏃 controlled run Fri, ✈️ Shenyang Sun |
 | [W09](weeks/2026-W09.md) | Feb 23 - Mar 1 | ⚽ Football Tue, 🏃 fastest run yet (6'22"/km), Sarah's new plyo program received |
 | [W06](weeks/2026-W06.md) | Feb 2 - Feb 8 | 🏢 Workshop week (Mon-Thu), ✈️ fly back to Singapore Fri, maintenance mode |
 | [W05](weeks/2026-W05.md) | Jan 26 - Feb 1 | 🔄 Post-travel recovery, rehab reintegration |
